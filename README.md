@@ -13,4 +13,3 @@ Experiment app to try React + React Router + Typescript
 7) https://www.lugolabs.com/articles/using-webpacker-in-ruby-on-rails-applications <- handle static assets
 7.5) https://github.com/rails/webpacker/issues/1119, https://github.com/rails/webpacker/blob/master/docs/css.md <-- why resolve-url-loader needs to be added
 7.6) https://github.com/rails/webpacker/blob/master/docs/webpack.md <-- configure file-loader
-
